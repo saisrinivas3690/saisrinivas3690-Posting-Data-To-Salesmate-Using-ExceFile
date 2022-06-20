@@ -78,7 +78,7 @@ step-3 :Next, check the installed version of NPM by typing:
  
  step-1 : downloading project to your laptop, it is easiest to download the entire repository.
   To do this, go to the GitHub page link:
-  https://github.com/saisrinivas3690/projects/tree/excel-salesmate-project:
+  [https://github.com/saisrinivas3690/projects/tree/excel-salesmate-project](https://github.com/saisrinivas3690/saisrinivas3690-Posting-Data-To-Salesmate-Using-ExceFile/blob/saisrinivas3690/Posting-Data-To-Salesmate-Using-ExceFile/README.md):
 
   click on the green Code button, then download the repository as a ZIP file.
 
